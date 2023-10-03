@@ -1,0 +1,7 @@
+pytorch
+torchvision
+torchaudio
+gym
+numpy
+scipy
+matplotlib
